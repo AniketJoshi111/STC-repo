@@ -1,7 +1,7 @@
 # Welcome To STC repository!
 
 ## Problem Statement : 
-This project aims to develop an ensemble machine learning model to identify at-risk students and minimize student failure. The primary objective is to create a hybrid model using the ensemble stacking method to predict at-risk students.
+This research aims to develop an ensemble machine learning model to identify at-risk students and minimize student failure. The primary objective is to create a hybrid model using the ensemble stacking method to predict at-risk students.
 
 ## Machine Learning Algorithms Used as Base Learners:
 - Random Forest Avg Accuracy: 0.9645320197044335
